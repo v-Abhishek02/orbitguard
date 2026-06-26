@@ -1,0 +1,7 @@
+.env
+data/raw/*.json
+data/processed/*.parquet
+__pycache__/
+*.pyc
+.DS_Store
+models/*.pt
