@@ -1,0 +1,21 @@
+{
+  "total_catalogue_objects": 27334,
+  "objects_propagated": 25201,
+  "propagation_duration_hours": 24.0,
+  "propagation_step_minutes": 2,
+  "total_trajectory_rows": 18125348,
+  "high_threshold_km": 5.0,
+  "med_threshold_km": 25.0,
+  "low_threshold_km": 60.0,
+  "scan_interval_minutes": 8,
+  "total_conjunction_events": 209285,
+  "high_events": 7415,
+  "med_events": 19987,
+  "low_events": 181883,
+  "sequence_length": 20,
+  "n_features": 18,
+  "n_sequences": 22245,
+  "high_sequences": 7415,
+  "med_sequences": 7415,
+  "low_sequences": 7415
+}
