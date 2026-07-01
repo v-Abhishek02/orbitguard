@@ -3,7 +3,10 @@ ORBITGUARD — Stage 1: SGP4 Orbital Propagation
 File: src/sgp4_pipeline.py
 Purpose: Convert TLE data into real X,Y,Z orbital trajectories using SGP4
 """
-
+# =====================================================================
+# OrbitGuard — SGP4 Orbital Propagation Engine
+# Scaled to support the complete Space-Track LEO catalog (27,334 objects)
+# =====================================================================
 import json
 import math
 import time
