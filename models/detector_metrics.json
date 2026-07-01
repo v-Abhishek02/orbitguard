@@ -1,0 +1,11 @@
+{
+  "macro_f1": 0.6901,
+  "high_risk_f1": 0.9677,
+  "n_parameters": 81188,
+  "n_train_samples": 15571,
+  "param_sample_ratio": 5,
+  "dropout": 0.5,
+  "weight_decay": 0.001,
+  "augmentation": true,
+  "architecture": "CNN+BiLSTM+Attention (Lite)"
+}

@@ -10,3 +10,8 @@ data/raw/*.json
 models/*.pt
 models/*.pkl
 .vscode/
+data/processed/*.parquet
+data/processed/*.npy
+data/raw/*.json
+models/*.pt
+models/*.pkl
