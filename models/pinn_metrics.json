@@ -1,0 +1,33 @@
+{
+  "approach": "Position displacement prediction",
+  "physics_loss": "Conservation laws (stable)",
+  "parameters": 2180611,
+  "architecture": "ResNet-style, 512 hidden, Tanh",
+  "best_val_rmse_km": 282.7,
+  "test_pinn_km": 281.83,
+  "test_linear_km": 17719.43,
+  "improvement_x": 62.9,
+  "target_200km_met": false,
+  "horizon_results": {
+    "10min": {
+      "pinn": 114.97,
+      "linear": 1409.91,
+      "static": 4417.68
+    },
+    "20min": {
+      "pinn": 141.41,
+      "linear": 3969.39,
+      "static": 6695.51
+    },
+    "30min": {
+      "pinn": 172.11,
+      "linear": 7343.63,
+      "static": 8564.53
+    },
+    "60min": {
+      "pinn": 281.83,
+      "linear": 17719.43,
+      "static": 10673.59
+    }
+  }
+}
