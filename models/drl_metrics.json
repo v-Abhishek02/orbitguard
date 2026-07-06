@@ -1,0 +1,17 @@
+{
+  "algorithm": "PPO",
+  "obs_dim": 42,
+  "act_dim": 3,
+  "parameters": 143623,
+  "n_updates": 300,
+  "rollout_steps": 1024,
+  "total_steps": 307200,
+  "fuel_budget_ms": 500,
+  "max_dv_step_ms": 0.866,
+  "success_rate": 1.0,
+  "collision_rate": 0.0,
+  "mean_reward": 1508.05,
+  "mean_dv_ms": 103.8978,
+  "target_95_met": true,
+  "best_training_success": 1.0
+}
