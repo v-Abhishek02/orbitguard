@@ -1,0 +1,530 @@
+[
+  {
+    "scenario": "SC-25544_T976",
+    "spacecraft_id": "25544",
+    "n_debris": 8,
+    "detections": [
+      {
+        "label": 0,
+        "name": "LOW",
+        "prob_low": 0.5507462024688721,
+        "prob_med": 0.44188618659973145,
+        "prob_high": 0.007367616053670645,
+        "confidence": 0.5507462024688721,
+        "debris_id": "66592"
+      },
+      {
+        "label": 0,
+        "name": "LOW",
+        "prob_low": 0.5530966520309448,
+        "prob_med": 0.4401378929615021,
+        "prob_high": 0.006765503436326981,
+        "confidence": 0.5530966520309448,
+        "debris_id": "58702"
+      },
+      {
+        "label": 0,
+        "name": "LOW",
+        "prob_low": 0.5417144894599915,
+        "prob_med": 0.44801056385040283,
+        "prob_high": 0.01027498859912157,
+        "confidence": 0.5417144894599915,
+        "debris_id": "29766"
+      },
+      {
+        "label": 0,
+        "name": "LOW",
+        "prob_low": 0.5490530133247375,
+        "prob_med": 0.4431435465812683,
+        "prob_high": 0.007803482003509998,
+        "confidence": 0.5490530133247375,
+        "debris_id": "57816"
+      },
+      {
+        "label": 0,
+        "name": "LOW",
+        "prob_low": 0.5470917224884033,
+        "prob_med": 0.44452208280563354,
+        "prob_high": 0.008386246860027313,
+        "confidence": 0.5470917224884033,
+        "debris_id": "59392"
+      },
+      {
+        "label": 0,
+        "name": "LOW",
+        "prob_low": 0.5498274564743042,
+        "prob_med": 0.44258078932762146,
+        "prob_high": 0.007591758389025927,
+        "confidence": 0.5498274564743042,
+        "debris_id": "49393"
+      },
+      {
+        "label": 0,
+        "name": "LOW",
+        "prob_low": 0.5532198548316956,
+        "prob_med": 0.44006234407424927,
+        "prob_high": 0.006717753130942583,
+        "confidence": 0.5532198548316956,
+        "debris_id": "657"
+      },
+      {
+        "label": 0,
+        "name": "LOW",
+        "prob_low": 0.5526822805404663,
+        "prob_med": 0.4404716193675995,
+        "prob_high": 0.006846128962934017,
+        "confidence": 0.5526822805404663,
+        "debris_id": "60060"
+      }
+    ],
+    "predictions": [],
+    "maneuver": {
+      "dvx_ms": 0.5,
+      "dvy_ms": -0.5,
+      "dvz_ms": -0.5,
+      "dv_mag_ms": 0.86603
+    },
+    "pipeline_ms": 622.41,
+    "high_risk_count": 0
+  },
+  {
+    "scenario": "SC-25544_T1344",
+    "spacecraft_id": "25544",
+    "n_debris": 8,
+    "detections": [
+      {
+        "label": 0,
+        "name": "LOW",
+        "prob_low": 0.5489386916160583,
+        "prob_med": 0.4432156980037689,
+        "prob_high": 0.00784561038017273,
+        "confidence": 0.5489386916160583,
+        "debris_id": "59392"
+      },
+      {
+        "label": 0,
+        "name": "LOW",
+        "prob_low": 0.5485736727714539,
+        "prob_med": 0.44347646832466125,
+        "prob_high": 0.007949910126626492,
+        "confidence": 0.5485736727714539,
+        "debris_id": "68339"
+      },
+      {
+        "label": 0,
+        "name": "LOW",
+        "prob_low": 0.5515084266662598,
+        "prob_med": 0.4413217008113861,
+        "prob_high": 0.007169883232563734,
+        "confidence": 0.5515084266662598,
+        "debris_id": "52992"
+      },
+      {
+        "label": 0,
+        "name": "LOW",
+        "prob_low": 0.5505036115646362,
+        "prob_med": 0.44207432866096497,
+        "prob_high": 0.007422041613608599,
+        "confidence": 0.5505036115646362,
+        "debris_id": "62388"
+      },
+      {
+        "label": 0,
+        "name": "LOW",
+        "prob_low": 0.5501013398170471,
+        "prob_med": 0.44237473607063293,
+        "prob_high": 0.007523878011852503,
+        "confidence": 0.5501013398170471,
+        "debris_id": "65902"
+      },
+      {
+        "label": 0,
+        "name": "LOW",
+        "prob_low": 0.5501733422279358,
+        "prob_med": 0.4423333704471588,
+        "prob_high": 0.0074932570569217205,
+        "confidence": 0.5501733422279358,
+        "debris_id": "56544"
+      },
+      {
+        "label": 0,
+        "name": "LOW",
+        "prob_low": 0.5496178865432739,
+        "prob_med": 0.44272544980049133,
+        "prob_high": 0.0076565914787352085,
+        "confidence": 0.5496178865432739,
+        "debris_id": "61956"
+      },
+      {
+        "label": 0,
+        "name": "LOW",
+        "prob_low": 0.5500079393386841,
+        "prob_med": 0.44244658946990967,
+        "prob_high": 0.007545560598373413,
+        "confidence": 0.5500079393386841,
+        "debris_id": "59376"
+      }
+    ],
+    "predictions": [],
+    "maneuver": {
+      "dvx_ms": 0.5,
+      "dvy_ms": -0.5,
+      "dvz_ms": -0.5,
+      "dv_mag_ms": 0.86603
+    },
+    "pipeline_ms": 10.79,
+    "high_risk_count": 0
+  },
+  {
+    "scenario": "SC-25544_T256",
+    "spacecraft_id": "25544",
+    "n_debris": 8,
+    "detections": [
+      {
+        "label": 0,
+        "name": "LOW",
+        "prob_low": 0.5441712737083435,
+        "prob_med": 0.44647514820098877,
+        "prob_high": 0.00935359951108694,
+        "confidence": 0.5441712737083435,
+        "debris_id": "61252"
+      },
+      {
+        "label": 0,
+        "name": "LOW",
+        "prob_low": 0.5439700484275818,
+        "prob_med": 0.4465985596179962,
+        "prob_high": 0.009431409649550915,
+        "confidence": 0.5439700484275818,
+        "debris_id": "54167"
+      },
+      {
+        "label": 0,
+        "name": "LOW",
+        "prob_low": 0.5463467240333557,
+        "prob_med": 0.4450194239616394,
+        "prob_high": 0.008633836172521114,
+        "confidence": 0.5463467240333557,
+        "debris_id": "58789"
+      },
+      {
+        "label": 0,
+        "name": "LOW",
+        "prob_low": 0.5503460764884949,
+        "prob_med": 0.44222506880760193,
+        "prob_high": 0.007428853772580624,
+        "confidence": 0.5503460764884949,
+        "debris_id": "60935"
+      },
+      {
+        "label": 0,
+        "name": "LOW",
+        "prob_low": 0.5491500496864319,
+        "prob_med": 0.44307053089141846,
+        "prob_high": 0.007779417093843222,
+        "confidence": 0.5491500496864319,
+        "debris_id": "59233"
+      },
+      {
+        "label": 0,
+        "name": "LOW",
+        "prob_low": 0.5476329922676086,
+        "prob_med": 0.44413554668426514,
+        "prob_high": 0.008231457322835922,
+        "confidence": 0.5476329922676086,
+        "debris_id": "56115"
+      },
+      {
+        "label": 0,
+        "name": "LOW",
+        "prob_low": 0.5447692275047302,
+        "prob_med": 0.44608274102211,
+        "prob_high": 0.009148058481514454,
+        "confidence": 0.5447692275047302,
+        "debris_id": "68598"
+      },
+      {
+        "label": 0,
+        "name": "LOW",
+        "prob_low": 0.544945478439331,
+        "prob_med": 0.4459608793258667,
+        "prob_high": 0.009093626402318478,
+        "confidence": 0.544945478439331,
+        "debris_id": "52792"
+      }
+    ],
+    "predictions": [],
+    "maneuver": {
+      "dvx_ms": 0.5,
+      "dvy_ms": -0.5,
+      "dvz_ms": -0.5,
+      "dv_mag_ms": 0.86603
+    },
+    "pipeline_ms": 43.46,
+    "high_risk_count": 0
+  },
+  {
+    "scenario": "SC-25544_T520",
+    "spacecraft_id": "25544",
+    "n_debris": 8,
+    "detections": [
+      {
+        "label": 0,
+        "name": "LOW",
+        "prob_low": 0.5459739565849304,
+        "prob_med": 0.44529789686203003,
+        "prob_high": 0.008728179149329662,
+        "confidence": 0.5459739565849304,
+        "debris_id": "61253"
+      },
+      {
+        "label": 0,
+        "name": "LOW",
+        "prob_low": 0.5462072491645813,
+        "prob_med": 0.4451352059841156,
+        "prob_high": 0.008657469414174557,
+        "confidence": 0.5462072491645813,
+        "debris_id": "45663"
+      },
+      {
+        "label": 0,
+        "name": "LOW",
+        "prob_low": 0.5414905548095703,
+        "prob_med": 0.4482446312904358,
+        "prob_high": 0.010264826938509941,
+        "confidence": 0.5414905548095703,
+        "debris_id": "29804"
+      },
+      {
+        "label": 0,
+        "name": "LOW",
+        "prob_low": 0.5466099977493286,
+        "prob_med": 0.4448639452457428,
+        "prob_high": 0.008526027202606201,
+        "confidence": 0.5466099977493286,
+        "debris_id": "58750"
+      },
+      {
+        "label": 0,
+        "name": "LOW",
+        "prob_low": 0.5415856242179871,
+        "prob_med": 0.44817280769348145,
+        "prob_high": 0.010241602547466755,
+        "confidence": 0.5415856242179871,
+        "debris_id": "26306"
+      },
+      {
+        "label": 0,
+        "name": "LOW",
+        "prob_low": 0.5523616671562195,
+        "prob_med": 0.4406847357749939,
+        "prob_high": 0.006953678093850613,
+        "confidence": 0.5523616671562195,
+        "debris_id": "4651"
+      },
+      {
+        "label": 0,
+        "name": "LOW",
+        "prob_low": 0.5531680583953857,
+        "prob_med": 0.44013482332229614,
+        "prob_high": 0.0066971201449632645,
+        "confidence": 0.5531680583953857,
+        "debris_id": "68574"
+      },
+      {
+        "label": 0,
+        "name": "LOW",
+        "prob_low": 0.5470072031021118,
+        "prob_med": 0.4445982873439789,
+        "prob_high": 0.008394524455070496,
+        "confidence": 0.5470072031021118,
+        "debris_id": "60946"
+      }
+    ],
+    "predictions": [],
+    "maneuver": {
+      "dvx_ms": 0.5,
+      "dvy_ms": -0.5,
+      "dvz_ms": -0.5,
+      "dv_mag_ms": 0.86603
+    },
+    "pipeline_ms": 29.28,
+    "high_risk_count": 0
+  },
+  {
+    "scenario": "SC-25544_T256",
+    "spacecraft_id": "25544",
+    "n_debris": 8,
+    "detections": [
+      {
+        "label": 0,
+        "name": "LOW",
+        "prob_low": 0.5441712737083435,
+        "prob_med": 0.44647514820098877,
+        "prob_high": 0.00935359951108694,
+        "confidence": 0.5441712737083435,
+        "debris_id": "61252"
+      },
+      {
+        "label": 0,
+        "name": "LOW",
+        "prob_low": 0.5439700484275818,
+        "prob_med": 0.4465985596179962,
+        "prob_high": 0.009431409649550915,
+        "confidence": 0.5439700484275818,
+        "debris_id": "54167"
+      },
+      {
+        "label": 0,
+        "name": "LOW",
+        "prob_low": 0.5463467240333557,
+        "prob_med": 0.4450194239616394,
+        "prob_high": 0.008633836172521114,
+        "confidence": 0.5463467240333557,
+        "debris_id": "58789"
+      },
+      {
+        "label": 0,
+        "name": "LOW",
+        "prob_low": 0.5503460764884949,
+        "prob_med": 0.44222506880760193,
+        "prob_high": 0.007428853772580624,
+        "confidence": 0.5503460764884949,
+        "debris_id": "60935"
+      },
+      {
+        "label": 0,
+        "name": "LOW",
+        "prob_low": 0.5491500496864319,
+        "prob_med": 0.44307053089141846,
+        "prob_high": 0.007779417093843222,
+        "confidence": 0.5491500496864319,
+        "debris_id": "59233"
+      },
+      {
+        "label": 0,
+        "name": "LOW",
+        "prob_low": 0.5476329922676086,
+        "prob_med": 0.44413554668426514,
+        "prob_high": 0.008231457322835922,
+        "confidence": 0.5476329922676086,
+        "debris_id": "56115"
+      },
+      {
+        "label": 0,
+        "name": "LOW",
+        "prob_low": 0.5447692275047302,
+        "prob_med": 0.44608274102211,
+        "prob_high": 0.009148058481514454,
+        "confidence": 0.5447692275047302,
+        "debris_id": "68598"
+      },
+      {
+        "label": 0,
+        "name": "LOW",
+        "prob_low": 0.544945478439331,
+        "prob_med": 0.4459608793258667,
+        "prob_high": 0.009093626402318478,
+        "confidence": 0.544945478439331,
+        "debris_id": "52792"
+      }
+    ],
+    "predictions": [],
+    "maneuver": {
+      "dvx_ms": 0.5,
+      "dvy_ms": -0.5,
+      "dvz_ms": -0.5,
+      "dv_mag_ms": 0.86603
+    },
+    "pipeline_ms": 79.21,
+    "high_risk_count": 0
+  },
+  {
+    "scenario": "SC-25544_T296",
+    "spacecraft_id": "25544",
+    "n_debris": 8,
+    "detections": [
+      {
+        "label": 0,
+        "name": "LOW",
+        "prob_low": 0.5531569719314575,
+        "prob_med": 0.44010496139526367,
+        "prob_high": 0.006738088559359312,
+        "confidence": 0.5531569719314575,
+        "debris_id": "54167"
+      },
+      {
+        "label": 0,
+        "name": "LOW",
+        "prob_low": 0.5415212512016296,
+        "prob_med": 0.44811511039733887,
+        "prob_high": 0.01036360114812851,
+        "confidence": 0.5415212512016296,
+        "debris_id": "52629"
+      },
+      {
+        "label": 0,
+        "name": "LOW",
+        "prob_low": 0.5531269311904907,
+        "prob_med": 0.44012901186943054,
+        "prob_high": 0.00674403877928853,
+        "confidence": 0.5531269311904907,
+        "debris_id": "61252"
+      },
+      {
+        "label": 0,
+        "name": "LOW",
+        "prob_low": 0.5422479510307312,
+        "prob_med": 0.4476702809333801,
+        "prob_high": 0.01008178573101759,
+        "confidence": 0.5422479510307312,
+        "debris_id": "63899"
+      },
+      {
+        "label": 0,
+        "name": "LOW",
+        "prob_low": 0.5527518391609192,
+        "prob_med": 0.44042080640792847,
+        "prob_high": 0.006827308796346188,
+        "confidence": 0.5527518391609192,
+        "debris_id": "67581"
+      },
+      {
+        "label": 0,
+        "name": "LOW",
+        "prob_low": 0.5529038310050964,
+        "prob_med": 0.44030243158340454,
+        "prob_high": 0.006793653592467308,
+        "confidence": 0.5529038310050964,
+        "debris_id": "8459"
+      },
+      {
+        "label": 0,
+        "name": "LOW",
+        "prob_low": 0.552649736404419,
+        "prob_med": 0.4404907524585724,
+        "prob_high": 0.006859541404992342,
+        "confidence": 0.552649736404419,
+        "debris_id": "30340"
+      },
+      {
+        "label": 0,
+        "name": "LOW",
+        "prob_low": 0.5416574478149414,
+        "prob_med": 0.4480535089969635,
+        "prob_high": 0.010289073921740055,
+        "confidence": 0.5416574478149414,
+        "debris_id": "69146"
+      }
+    ],
+    "predictions": [],
+    "maneuver": {
+      "dvx_ms": 0.5,
+      "dvy_ms": -0.5,
+      "dvz_ms": -0.5,
+      "dv_mag_ms": 0.86603
+    },
+    "pipeline_ms": 5.07,
+    "high_risk_count": 0
+  }
+]

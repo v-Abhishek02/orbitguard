@@ -1,0 +1,10 @@
+{
+  "n_scenarios": 6,
+  "total_debris": 48,
+  "high_risk_detected": 0,
+  "avg_latency_ms": 131.7,
+  "max_latency_ms": 622.41,
+  "latency_target_met": true,
+  "mean_dv_ms": 0.86603,
+  "detection_rate": 0.0
+}
