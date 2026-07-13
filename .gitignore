@@ -15,3 +15,12 @@ data/processed/*.npy
 data/raw/*.json
 models/*.pt
 models/*.pkl
+frontend/node_modules/
+frontend/dist/
+data/processed/*.parquet
+data/processed/*.npy
+data/raw/*.json
+models/*.pt
+models/*.pkl
+__pycache__/
+backend/__pycache__/
